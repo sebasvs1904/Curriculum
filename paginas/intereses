@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" >
+  <link rel="stylesheet" type="text/css" href="C:/Users/sebas/Desktop/Practicas%20de%20la%20pagina%20web/P8/css/Estilo.css">
+
+</head>
+<body>
+
+<div class="header">
+  <h1>Curriculum Vitae</h1>
+</div>
+
+<div class="row">
+
+<div class="col-3 menu">
+  <ul>
+    <li><a href="C:/Users/sebas/Desktop/Practicas%20de%20la%20pagina%20web/P8/2RedistribuyeMenu.html">Datos Generales</a></li>
+    <li><a href="objetivo.html">Objetivo personal</a></li>
+    <li><a>Experiencia profesional</a></li>
+    <li><a>Intereses</a></li>
+  </ul>
+</div>
+<div class="col-3 right">
+  <div class="aside">
+    <h2>Descripci&oacute;n de mi personalidas</h2>
+    <p>Me considero alguien sensible simpatico y amigable, muchas de las veces que actu&oacute; lo hago sin pensar, aunque luego suelo arrepentirme en la mayor&iacute;a de los casos. Se me dificulta pedir perd&iacute;n</p><p>No soy del todo sociable, pues también es muy dif&iacute;cil hablar con personas desconocidas; pero es ciertamente mas f&aacute;cil que tratar aparentar mas de lo que no son con aquellas personas mas cercanas</p>
+    <h2>Tecnolog&iacute;as que domino</h2>
+      <ol>
+      <li> C++</li>
+          <li> Java</li>
+      <li>SQL</li>
+          <li> UML</li>
+          <li>HTML</li>
+      </ol>
+    <p></p>
+  </div>
+</div>
